@@ -6,7 +6,6 @@ A password generator written in Python. Easily create secure passwords with cust
 
 - Generate random passwords
 - Customize password length
-- Choose character sets (uppercase, lowercase, digits, symbols)
 - Simple, command-line interface
 
 ## Installation
@@ -47,3 +46,4 @@ Contributions and suggestions are welcome! Feel free to submit issues or pull re
 ## License
 
 This project is licensed under the MIT License
+

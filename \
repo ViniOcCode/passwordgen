@@ -1,0 +1,8 @@
+from string import ascii_letters, digits, ponctuation
+def main():
+
+    string_pool = ascii_letters, digits, 
+                ponctuation
+
+if __name__ == "__main__":
+    main()

@@ -1,6 +1,6 @@
 # PasswordGen
 
-A password generator written in Python. Easily create secure passwords with customizable options for length and complexity.
+A password generator written in Python. Easily create secure passwords with customizable options for length.
 
 ## Features
 
@@ -46,4 +46,5 @@ Contributions and suggestions are welcome! Feel free to submit issues or pull re
 ## License
 
 This project is licensed under the MIT License
+
 
